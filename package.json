@@ -20,7 +20,7 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "http": "0.0.0",
-    "node-gyp": "",
+    "node-gyp": "3.8.0",
     "path": "^0.12.7",
     "websocket": "^1.0.25"
   },
